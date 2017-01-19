@@ -1,4 +1,4 @@
-string = "erion jade erion ! jade jade jade : erion eleksa eleksa eriona"
+string = "im the man : as a man, i should be a man : !!"
 lists = string.lower().split()
 dictn = {}
 
